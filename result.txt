@@ -1,0 +1,29 @@
+Genre               AveragePrice     
+------------------  -----------------
+TV Shows            1.99             
+Sci Fi & Fantasy    1.99             
+Science Fiction     1.99             
+Comedy              1.99             
+Drama               1.99             
+Rock                0.990000000000008
+Latin               0.990000000000007
+Metal               0.990000000000005
+Alternative & Punk  0.990000000000005
+Reggae              0.990000000000001
+R&B/Soul            0.990000000000001
+Pop                 0.99             
+Rock And Roll       0.99             
+Bossa Nova          0.99             
+Soundtrack          0.99             
+Opera               0.99             
+Alternative         0.99             
+Classical           0.99             
+Easy Listening      0.99             
+Hip Hop/Rap         0.99             
+Blues               0.99             
+Heavy Metal         0.99             
+Electronica/Dance   0.99             
+World               0.99             
+Jazz                0.989999999999998
+  
+# Requête : Calcul de la moyenne des prix des pistes par genre
